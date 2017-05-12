@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = 'CRGoodsDetail'
-    s.version      = '0.0.1'
+    s.version      = '0.0.5'
     s.summary      = '商品详情'
     s.homepage     = 'https://github.com/DrMatioDevelop/CRGoodsDetail'
     s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
