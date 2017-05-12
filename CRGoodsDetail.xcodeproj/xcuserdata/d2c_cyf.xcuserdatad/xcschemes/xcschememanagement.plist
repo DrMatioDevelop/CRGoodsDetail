@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>CRGoodsDetailDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>568EF27B1EC5530A0047A643</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>568EF28A1EC553170047A643</key>
 		<dict>
 			<key>primary</key>
 			<true/>
